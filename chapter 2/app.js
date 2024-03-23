@@ -43,11 +43,11 @@ alert(
   "I'm trying to learn from the Book A Smarter way to Learn JavaScript" + book
 );
 
-////----Question-8----////
+/////----Question-8----/////
 
 document.write("Yah! I can write HTML content through Javascript");
 
-////----Question-9----////
+/////----Question-9----/////
 
 let END = "“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”";
 alert(END);
